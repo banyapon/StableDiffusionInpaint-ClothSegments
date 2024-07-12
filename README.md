@@ -30,6 +30,8 @@ It creates an instance of the StableDiffusionInpaintPipeline class and initializ
 ## Makes it usable: 
 It assigns this pipeline to the pipe variable, allowing you to easily call functions on pipe to perform inpainting on your images.
 
+## Result:
+![](https://github.com/banyapon/StableDiffusionInpaint-ClothSegments/blob/main/images/resized_and_upscaled.jpg?raw=true)
 
 ## References
 - https://github.com/mberkay0
