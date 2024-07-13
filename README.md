@@ -5,7 +5,7 @@ This project explores the application of cloth segmentation to inpainting, allow
 ## Run this work ##
 Jupyter notebook with the example pipeline: 
 
-[![Open In Colab](https://colab.research.google.com/drive/18gpTsNLfiXw5hADVPVUyyxVGf93SFlii?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18gpTsNLfiXw5hADVPVUyyxVGf93SFlii?usp=sharing)
 
 # Key Points
 ![](https://github.com/banyapon/StableDiffusionInpaint-ClothSegments/blob/main/images/screen1.png?raw=true)
